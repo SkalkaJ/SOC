@@ -14,5 +14,5 @@
 \contentsline {chapter}{Bibliografie}{9}{chapter*.9}%
 \contentsline {chapter}{Zkratky}{10}{section*.10}%
 \contentsline {chapter}{Přílohy}{13}{section*.14}%
-\contentsline {chapter}{\numberline {A}Fotky z pokusů}{14}{appendix.a.A}%
-\contentsline {chapter}{\numberline {B}Příloha další }{15}{appendix.a.B}%
+\contentsline {chapter}{\numberline {A}Fotky z pokusů}{14}{appendix.1.A}%
+\contentsline {chapter}{\numberline {B}Příloha další }{15}{appendix.1.B}%
